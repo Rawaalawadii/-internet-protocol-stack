@@ -4,7 +4,7 @@
 
 في هذه الوحده سنتعرف على :
 -  مفهوم internet protocol stack 
--  ماهو TCP \ UD 
+-  ماهو TCP \ UDB  
 -  مشروع الشبكات 
 
 
