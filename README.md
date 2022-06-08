@@ -2,6 +2,14 @@
 
 
 
+في هذه الوحده سنتعرف على :
+-  مفهوم internet protocol stack 
+-  ماهو TCP \ UD 
+-  مشروع الشبكات 
+
+
+
+
  مفهوم internet protocol stack 
 
 
